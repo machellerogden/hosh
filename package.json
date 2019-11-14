@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mac Heller-Ogden",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machellerogden/hosh.git"
+  },
+  "author": {
+    "name": "Mac Heller-Ogden",
+    "email": "mac@machellerogden.com"
+  },
   "license": "MIT",
   "dependencies": {
     "pdn": "^0.3.18",
